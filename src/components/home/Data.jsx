@@ -55,7 +55,7 @@ const Data = () => {
           ></path>
         </svg>
       </h1>
-      <h3 className="home__subtitle">Berozgar</h3>
+      <h3 className="home__subtitle">Web Developer</h3>
       <p className="home__description">
       Experienced full-stack developer with expertise in both Frontend and
       Backend technologies. Passionate about crafting captivating user

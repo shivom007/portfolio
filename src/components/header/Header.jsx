@@ -8,11 +8,11 @@ const Header = () => {
   });
   const [Toggle, showMenu] = useState(false);
   const [active, setActive] = useState("#home");
-
+  
   return (
     <header className="header">
       <nav className="nav ">
-        <a href="#home" className="nav__logo">
+        <a href="/" className="nav__logo">
           Shiv
         </a>
 
