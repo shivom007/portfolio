@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.2346d9f3.css",
-    "main.js": "/portfolio/static/js/main.3cb1f3d3.js",
+    "main.js": "/portfolio/static/js/main.3b231dd3.js",
     "static/media/profile.jpg": "/portfolio/static/media/profile.f5ed6c07d25d7d7fe16c.jpg",
     "static/media/Shiv-Kumar-Mahto.pdf": "/portfolio/static/media/Shiv-Kumar-Mahto.f792e9c0083102cc6d6f.pdf",
     "index.html": "/portfolio/index.html",
     "main.2346d9f3.css.map": "/portfolio/static/css/main.2346d9f3.css.map",
-    "main.3cb1f3d3.js.map": "/portfolio/static/js/main.3cb1f3d3.js.map"
+    "main.3b231dd3.js.map": "/portfolio/static/js/main.3b231dd3.js.map"
   },
   "entrypoints": [
     "static/css/main.2346d9f3.css",
-    "static/js/main.3cb1f3d3.js"
+    "static/js/main.3b231dd3.js"
   ]
 }
