@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./about.css";
 import AboutImg from "../../assets/profile.jpg";
-import CV from "../../assets/Shiv-Kumar-Mahto.pdf";
+import CV from "../../assets/Shiv_Mahto.pdf";
 import Info from "./Info";
 const About = () => {
   const [toggle, setToggle] = useState(0);
@@ -46,8 +46,9 @@ const About = () => {
                 {/* Your Title */}
                 About Me
               </h3>
+              
               <p className="services__modal-description">
-                I am a skilled and versatile programmer proficient in an array
+                I am a Computer Science graduate, skilled and versatile programmer proficient in an array
                 of programming languages, such as C/C++, JavaScript, Java, and
                 Python. My portfolio showcases expertise in both front-end and
                 back-end development, where I specialize in crafting captivating

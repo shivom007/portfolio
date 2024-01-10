@@ -57,7 +57,7 @@ const Data = () => {
       </h1>
       <h3 className="home__subtitle">Web Developer</h3>
       <p className="home__description">
-      Experienced full-stack developer with expertise in both Frontend and
+      Full-Stack MERN developer with expertise in both Frontend and
       Backend technologies. Passionate about crafting captivating user
       experiences and delivering end-to-end solutions. Let's bring your ideas
       to life. Explore my portfolio.

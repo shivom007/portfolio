@@ -4,6 +4,9 @@
     column-gap: 1.8rem;
 }
 
+a {
+    color: black;
+}
 .services__content {
     position: relative;
     border: 1px solid rgba(0, 0, 0, 0.1);
@@ -176,3 +179,4 @@
 
     
   }
+
