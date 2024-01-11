@@ -36,9 +36,9 @@ const Qualification = () => {
                             </h3>
                             <span className="qualification__subtitle">GITA College <br/>
                             Bhubaneswar<br/> Odisha</span>
-                            {/* <div className="qualification__calender">
+                            <div className="qualification__calender">
                                 <i className="uil uil-calender"></i> 2019 - 2023
-                            </div> */}
+                            </div>
                         </div>
                         <div>
                             <span className="qualification__rounder"></span>
@@ -58,9 +58,9 @@ const Qualification = () => {
                             </h3>
                             <span className="qualification__subtitle">C.N Inter Colege <br/>
                             Dugda, Bokaro<br/> Jharkhand</span>
-                            {/* <div className="qualification__calender">
+                            <div className="qualification__calender">
                                 <i className="uil uil-calender"></i> 2017 - 2019
-                            </div> */}
+                            </div>
                         </div>
                        
 
@@ -72,9 +72,9 @@ const Qualification = () => {
                             </h3>
                             <span className="qualification__subtitle">D.A.V Public School <br/>
                             Dugda, Bokaro<br/> Jharkhand</span>
-                            {/* <div className="qualification__calender">
-                                <i className="uil uil-calender"></i> 2019 - 2023
-                            </div> */}
+                            <div className="qualification__calender">
+                                <i className="uil uil-calender"></i> 2005 - 2016
+                            </div>
                         </div>
                         <div>
                             <span className="qualification__rounder"></span>
